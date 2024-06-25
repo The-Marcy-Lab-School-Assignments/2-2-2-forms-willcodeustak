@@ -1,5 +1,5 @@
 /** GENERAL FEEDBACK:
- *
+ * Great job getting all test cases to pass! Love the use of documentation in your submissions!
  */
 
 const handleSubmit = (e) => { 
